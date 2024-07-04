@@ -1,6 +1,6 @@
 # Machine Learning Specialization Labs
 
-Welcome to the Machine Learning Specialization Labs repository by Ioannis Chalkiadakis. This repository contains lab assignments and projects from the Machine Learning Specialization by Andrew Ng, offered in collaboration between DeepLearning.AI and Stanford University in Coursera.
+Welcome to the Machine Learning Specialization Labs repository by Ioannis Chalkiadakis. This repository contains lab assignments and projects from the Machine Learning Specialization by Andrew Ng, offered in collaboration between DeepLearning.AI and Stanford University on Coursera.
 
 ## Overview
 
@@ -90,5 +90,6 @@ pip install -r requirements.txt
 
 # Navigate to the respective course directory (e.g., Supervised-Machine-Learning, Advanced-Learning-Algorithms, Unsupervised-Learning-Recommenders-Reinforcement-Learning)
 # Open the desired lab notebook (.ipynb) in Jupyter Notebook and follow the instructions within the notebook
+
 
 
