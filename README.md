@@ -1,6 +1,6 @@
 # Machine Learning Specialization Labs
 
-Welcome to the Machine Learning Specialization Labs repository by Ioannis Chalkiadakis. This repository contains lab assignments and projects from the Machine Learning Specialization by Andrew Ng, offered in collaboration between DeepLearning.AI and Stanford University.
+Welcome to the Machine Learning Specialization Labs repository by Ioannis Chalkiadakis. This repository contains lab assignments and projects from the Machine Learning Specialization by Andrew Ng, offered in collaboration between DeepLearning.AI and Stanford University in Coursera.
 
 ## Overview
 
