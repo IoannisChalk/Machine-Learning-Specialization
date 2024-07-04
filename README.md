@@ -70,6 +70,10 @@ By completing this Machine Learning Specialization, you will:
 - Develop recommender systems using collaborative filtering and deep learning methods.
 - Gain practical experience in reinforcement learning and build reinforcement learning models.
 
+### Coursera Course Link
+
+For more details about the Machine Learning Specialization on Coursera, visit [Coursera Machine Learning Specialization]/([https://www.coursera.org/specializations/machine-learning-introduction]).
+
 ## Installation
 
 To run the labs locally, follow these steps:
