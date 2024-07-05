@@ -74,32 +74,8 @@ By completing this Machine Learning Specialization, you will:
 
 For more details about the Machine Learning Specialization on Coursera, visit [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction).
 
-## Installation and Usage
 
-```bash
-# Clone the repository
-git clone https://github.com/IoannisChalk/Machine-Learning-Specialization.git
-cd Machine-Learning-Specialization
 
-# Set up a virtual environment (optional but recommended)
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-# Install the required packages
-pip install -r requirements.txt
-
-# Navigate to the respective course directory (e.g., Supervised-Machine-Learning, Advanced-Learning-Algorithms, Unsupervised-Learning-Recommenders-Reinforcement-Learning)
-# Open the desired lab notebook (.ipynb) in Jupyter Notebook and follow the instructions within the notebook
-
-## Technical Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- Required packages listed in `requirements.txt`
-
-## Contribution
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
 ## License
 
