@@ -91,4 +91,19 @@ pip install -r requirements.txt
 # Navigate to the respective course directory (e.g., Supervised-Machine-Learning, Advanced-Learning-Algorithms, Unsupervised-Learning-Recommenders-Reinforcement-Learning)
 # Open the desired lab notebook (.ipynb) in Jupyter Notebook and follow the instructions within the notebook
 
+## Technical Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- Required packages listed in `requirements.txt`
+
+## Contribution
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
