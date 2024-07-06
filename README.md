@@ -74,6 +74,10 @@ By completing this Machine Learning Specialization, you will:
 
 For more details about the Machine Learning Specialization on Coursera, visit [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction).
 
+## Certification
+
+I have completed the Machine Learning Specialization by Andrew Ng on Coursera. You can verify my certification using the following link: [Coursera Machine Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/MYG4PMCCXRPK).
+
 
 ## Installation
 
